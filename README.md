@@ -83,5 +83,5 @@ node server.js
 
 ## Demo Video for application explanation:
 
-[Demo Video - loom video](https://www.loom.com/share/ab04d44bc01845539b17647b230fbbad?sid=a7377a2c-3dbe-450c-a288-5dab32b8377b)
+https://www.loom.com/share/ab04d44bc01845539b17647b230fbbad?sid=a7377a2c-3dbe-450c-a288-5dab32b8377b
 
